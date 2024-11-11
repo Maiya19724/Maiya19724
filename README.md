@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hao Xiang!
+# Hi there 👋 I'm Hao XIANG!
 
 I'm a PhD student at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on data-driven genome mining and functional small molecule discovery, particularly from endophytic fungi in ethnic medicine.
 
