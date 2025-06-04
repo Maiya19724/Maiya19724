@@ -22,7 +22,7 @@ I'm a PhD student at the Shenzhen Institute of Advanced Technology, Chinese Acad
 - First-Class Academic Scholarship (2022)
 
 ## 📫 Contact
-Feel free to reach out via email (h.xiang@siat.ac.cn) for collaborations or discussions on computational biology and natural product discovery.
+Feel free to reach out via email (h.xiang⭕️siat.ac.cn) for collaborations or discussions on computational biology and natural product discovery.
 
 ---
 Thanks for visiting my profile!
